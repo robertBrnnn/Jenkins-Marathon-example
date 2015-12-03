@@ -1,0 +1,10 @@
+{
+  "name": "Example",
+  "description": "A simple example",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "3.x"
+  },
+  "scripts": {"start": "node app.js"}
+}
