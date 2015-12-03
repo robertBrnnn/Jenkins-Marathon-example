@@ -2,7 +2,7 @@
 
 if [ -z "${1}" ]; then
    version="latest"
-   marathon="tvp128125.uk.oracle.com"
+   marathon="localhost"
 else
    version="${1}"
    marathon=${MARATHON_PORT_8080_TCP_ADDR}
