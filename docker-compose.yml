@@ -1,0 +1,4 @@
+app:
+  tty: true
+  image: localhost:5000/node-example:tag
+  stdin_open:true
