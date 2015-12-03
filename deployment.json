@@ -2,7 +2,7 @@
     "id": "node-deployment-example", 
     "container": {
       "docker": {
-        "image": "localhost:5000/nodejs_app:latest",
+        "image": "localhost:5000/node-example:latest",
         "network": "BRIDGE",
         "portMappings": [
           {"containerPort": 8000, "servicePort": 8000}
