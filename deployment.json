@@ -1,5 +1,5 @@
 {
-    "id": "Node Deployment Example", 
+    "id": "NodeDeploymentExample", 
     "container": {
       "docker": {
         "image": "localhost:5000/nodejs_app:latest",
