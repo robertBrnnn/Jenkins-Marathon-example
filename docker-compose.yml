@@ -1,4 +1,4 @@
 app:
   tty: true
   image: localhost:5000/node-rancher:tag
-  stdin_open:true
+  stdin_open: true
