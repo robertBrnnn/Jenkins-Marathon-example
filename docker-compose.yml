@@ -2,3 +2,5 @@ app:
   tty: true
   image: localhost:5000/node-rancher:tag
   stdin_open: true
+  ports: 
+   - "8000"
